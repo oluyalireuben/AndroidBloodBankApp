@@ -29,4 +29,4 @@ To install the application you can head up to https://github.com/frashasantoYT/B
 
 
 ## support 
-If you would like to support this project. You can do so [here](https://www.buymeacoffee.com/frashasantM)
+If you would like to support this project. You can do so [here](https://www.buymeacoffee.com/oluyalireu)
